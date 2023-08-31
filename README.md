@@ -2,7 +2,7 @@
 
 **In Development**
 
-Repository for developing methods to process Sentinel 1 (SAR) and Sentinel 2 into useful GIS products. Slowing adding new techniques as time permits
+Repository for developing methods to process Sentinel 1 (SAR) and Sentinel 2 into useful GIS products. Slowly adding new techniques as time permits
 
 ## Includes
 
