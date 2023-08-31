@@ -1,0 +1,31 @@
+
+# VSCode
+.vscode/*
+
+# Mac
+**/.DS_Store
+.dbus*
+
+# History and AWS
+.aws*
+.bash_history
+.cache
+.local
+.python_history
+
+# hide secrets
+.creds
+.config
+.netrc
+.psql
+.push
+.install4j
+
+# Hide dirs
+data
+**/data
+GRASS_ENV
+*pycache*
+todo.txt
+?
+qgis
